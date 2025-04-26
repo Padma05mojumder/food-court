@@ -1,0 +1,488 @@
+#heading1
+{
+    text-align: center;
+    font-size: 50px;
+    color:white;
+    position:relative;
+    top:50px;
+}
+header
+{
+    background-color: rgb(200, 27, 27);
+    width:1550px;
+    height:200px;
+    position: relative;
+    bottom:33px;
+    right:10px;
+}
+h3
+{
+    text-align:right;
+    right: 70 px;
+    color:aliceblue;
+    position: relative;
+    font-size: 30px;
+    right:320px;
+    top:8px;
+}
+#div1
+{
+
+    background-color:black;
+    width:80px;
+    height:30px;
+    border-radius:10px;
+    text-align: center;
+    position:relative;
+    left:1390px;
+    bottom:142px;
+    padding-top:10px;
+}
+#anch1
+{
+    text-decoration: none;
+    color: rgb(200, 27, 27);
+}
+p
+{
+    font-size:30px;
+    text-align:center;
+    color:whitesmoke;
+}
+div
+{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+.pic1
+{
+    height:180px;
+    width:250px;
+}
+#picdiv1
+{
+    background-image: url("biriyani.jpg");
+    background-size: cover;
+}
+#picdiv2
+{
+    background-image: url("north indian dish.jpg");
+    background-size: cover;
+}
+#picdiv3
+{
+    background-image: url("South-Indian-main.jpeg");
+    background-size: cover;
+}
+#picdiv4
+{
+    background-image: url("Chinese-Dishes-1536x1053.jpg");
+    background-size: cover;
+}
+.text1
+{
+    width:250px;
+    font-size: 30px;
+    font-weight: 900;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#textdiv
+{
+    display:flex;
+    justify-content: space-around;
+    position:relative;
+    bottom:100px;
+}
+.link
+{
+    text-decoration: none;
+}
+#kdiv
+{
+    display:flex;
+    justify-content: space-around;
+}
+.pic2
+{
+    height:180px;
+    width:250px;
+    background-color: aquamarine;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.text2
+{
+    font-size: 20px;
+    font-weight: 700;
+    height:40px;
+}
+#symbol
+{
+    width:30px;
+    height:30px;
+    font-size:50px;
+    font-weight: 800;
+    position:relative;
+    left:375px;
+    bottom:69px;
+}
+#symbol1
+{
+    width:30px;
+    height:30px;
+    font-size:50px;
+    font-weight: 800;
+    position:relative;
+    left:420px;
+    bottom:69px;
+}
+.rate
+{
+    width:40px;
+    background-color: rgb(26, 225, 63);
+    color:antiquewhite;
+    border-radius: 5px;
+}
+#arsalan
+{
+    position:relative;
+    left:1122px;  
+    bottom:80px;
+    background-color: white;
+    width:250px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+#aminia
+{
+    position:relative;
+    left:125px;
+    background-color: white;
+    width:250px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#kosha
+{
+ position:relative;
+    left:623px;
+    bottom:40px;
+    background-color: white;
+    width:250px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+#rate1
+{
+    position:relative;
+    left:326px;
+    bottom:114px;
+}
+#rate2
+{
+    position:relative;
+    left:825px;
+    bottom:135px;
+} 
+#rate3
+{
+    position:relative;
+    border-radius: 5px;
+    left:1323px;
+    bottom:156px;
+} 
+#search
+{
+    width:200px;
+    height:30px;
+    background-color: whitesmoke;
+    color:rgb(65, 63, 63);
+    position:relative;
+    top:10px;
+    border-radius: 20px;
+    border-color: black;
+    padding-top: 10px;
+    padding-left:10px;
+    
+}
+h2
+{
+    font-size: 35px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+body
+{
+    background-color:rgba(241, 128, 62, 0.944);
+}
+#icon1
+{
+    position: relative;
+    left:1290px;
+    font-size: 45px;
+    bottom:100px;
+}
+#icon2
+{
+    position: relative;
+    font-size: 20px;
+    top:2px;
+    left:10px;
+    color:black;
+}
+#heading2
+{
+    background-color: antiquewhite;
+    border-radius:5px;
+}
+#heading3
+{
+    background-color: antiquewhite;
+    border-radius:5px;
+}
+#park
+{
+    display:flex;
+    justify-content: space-around;
+    
+}
+.pic3
+{
+    width:250px;
+    height:180px;
+    background-color: aqua;
+    border-top-right-radius:15px;
+    border-top-left-radius: 15px;
+
+}
+#res1
+{
+    background-image: url("aminia.jpg");
+    background-size: cover;
+}
+#res2
+{
+    background-image: url("koshe kosha.avif");
+    background-size: cover;
+}
+#res3
+{
+    background-image: url("arsalan");
+    background-size: cover;
+}
+#place1
+{
+    background-image: url("one8 commune");
+    background-size: cover;
+}
+#place2
+{
+    background-image: url("barbq.jpg");
+    background-size: cover;
+}
+#place3
+{
+    background-image: url("moti mahal.jpg");
+    background-size: cover;
+}
+.text3
+{
+    width: 250px;
+    height:40px;
+    background-color: white;
+}
+#one8
+{
+    font-size: 20px;
+    position: relative;
+    left:125px;
+    font-weight: bold;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#bbq
+{
+    font-size:20px;
+    position: relative;
+    left:623px;
+    bottom:40px;
+    font-weight: bold;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#motimahal
+{
+    font-size:20px;
+    position: relative;
+    left:1122px;
+    bottom:80px;
+    font-weight: bold;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+#icon3
+{
+    font-size: 35px;
+    position: relative;
+    left: 15px;
+    bottom:110px;
+}
+.prate
+{
+    width:40px;
+    background-color: rgb(26, 225, 63);
+    color:antiquewhite;
+    border-radius: 5px;
+}
+#rate4
+{
+    position:relative;
+    left:327px;
+    bottom:114px;
+}
+#rate5
+{
+    position:relative;
+    left:825px;
+    bottom:135px;
+}
+#rate6
+{
+    position:relative;
+    left:1323px;
+    bottom:156px;
+} 
+#app
+{
+    width:100px;
+    height:30px;
+    position:relative;
+    left:1350px;
+    background-color: rgba(241, 128, 62, 0.944);
+    border-color: white;
+    border-style: solid;
+    border-radius: 25px;
+    padding-top: 10px;
+    color:white;
+} 
+#order
+{
+    height:35px;
+    width:100px;
+    background-color:rgb(19, 126, 10);
+    color:white;
+    padding-top: 12px;
+    position:sticky;
+    left:1470px;
+    bottom: 8px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+.image
+{
+    width:200px;
+    position: relative;
+    right:600px;
+    top: 100px;
+}
+.line
+{
+    position: relative;
+    top: 1px;
+}
+.class1
+{
+    font-size: 18px;
+}
+#et
+{
+    font-size: 30px;
+}
+.class2
+{
+    font-size: 18px;
+}
+#for
+{
+    font-size: 30px;
+}
+.class3
+{
+    font-size: 18px;
+}
+#del
+{
+    font-size: 30px;
+}
+.class4
+{
+    font-size: 18px;
+}
+#learn
+{
+    font-size: 30px;
+}
+#last
+{
+    font-size:15px;
+}
+ul
+{
+    display:block;
+}
+#list1
+{
+    padding-bottom:100px;
+}
+footer
+{
+    background-color: rgb(195, 47, 47);
+    width:1550px;
+    position: relative;
+    right:10px;
+    top:100px;
+}
+#line
+{
+    height:5px;
+    width:1550px;
+    background-color: white;
+}
+#bar
+{
+    display:flex;
+    justify-content: space-evenly;
+}
+.app1
+{
+    width:100px;
+    height:50px;
+    border-radius: 20px;
+}
+#app
+{
+    display:flex;
+}
+.pic1:hover
+{
+    border-style:solid;
+    border-width: 5px;
+    border-color: whitesmoke;
+}
+.text1:hover
+{
+    font-size:33px ;
+}
+#order:hover
+{
+    text-decoration: underline;
+}
+
+
+
+
+

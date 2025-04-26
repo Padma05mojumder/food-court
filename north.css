@@ -1,0 +1,81 @@
+body
+{
+    background-color: rgba(241, 128, 62, 0.944);
+}
+.north
+{
+    height:180px;
+    width: 250px;
+    background-color: aqua;
+    position: relative;
+    left:1140px;
+    margin: 100px;
+
+}
+h1
+{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(200, 27, 27) ;
+    width:1550px;
+    position:relative;
+    right:10px;
+    color:white;
+}
+#pic1
+{
+    background-image: url("dada boudi biriyani.jpg");
+    background-size: cover;
+}
+#pic2
+{
+    background-image: url("aminia.jpg");
+    background-size: cover;
+}
+#pic3
+{
+    background-image: url("arsalan");
+    background-size: cover;
+}
+#pic4
+{
+    background-image: url("kareem.jpg");
+    background-size: cover;
+}
+#pic5
+{
+    background-image: url("one8 commune");
+    background-size: cover;
+}
+.resturant
+{
+    background-color: white;
+    border-radius: 25px;
+    width:1200px;
+    height:200px;
+    position: relative;
+    right:1230px;
+    bottom:10px;
+}
+.text1
+{
+    font-size:45px;
+    font-weight: 650;
+    position:relative;
+    left:10px;
+}
+.text2
+{
+    font-size: 30px;
+    font-weight: 300;
+    position: relative;
+    left:10px;
+    bottom:20px;
+}
+.text3
+{
+    font-size: 25px;
+    position: relative;
+    bottom:35px;
+    left:10px;
+}
